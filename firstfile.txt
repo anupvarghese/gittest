@@ -1,13 +1,15 @@
 hjasdjhadkjh
-kjhasdkjhad
+kjha [for feature 6!] sdkjhad
 adsdsd
 sdfsdf
+
+This line is for feature 6!
 
 new changes
 123
 
 
-abcdk;ldks
+abcdk; [for feature 6!] ldks
 
 sdfsfdsf
 
